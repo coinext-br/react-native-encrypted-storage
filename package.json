@@ -1,5 +1,5 @@
 {
-  "name": "react-native-encrypted-storage",
+  "name": "@coinext/react-native-encrypted-storage",
   "version": "4.0.3",
   "description": "A React Native wrapper over SharedPreferences and Keychain to provide a secure alternative to Async Storage",
   "main": "lib/commonjs/index",
